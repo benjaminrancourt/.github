@@ -10,9 +10,9 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 issuehunt: # Replace with a single IssueHunt username
-ko_fi: ranb2002
+ko_fi: benjaminrancourt
 liberapay: # Replace with a single Liberapay username
 open_collective: # Replace with a single Open Collective username
 otechie: # Replace with a single Otechie username
-patreon: ranb2002
+patreon: benjaminrancourt
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
